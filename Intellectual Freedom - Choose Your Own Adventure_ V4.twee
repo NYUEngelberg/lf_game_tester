@@ -1,0 +1,2033 @@
+:: StoryTitle
+Intellectual Freedom - Choose Your Own Adventure! V4
+
+
+:: StoryData
+{
+  "ifid": "DA8CEF21-174B-4A89-9380-1603AD14486C",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Welcome",
+  "zoom": 0.3
+}
+
+
+:: \ Farce - Confront {"position":"2475,1200","size":"100,100"}
+<img class="fit-picture" src="images/Farce_Confront.png" alt="">
+<h1 class="sr-only">Confront</h1>
+<h1 class="action-style">You confront Fay angrily.</h1>
+
+<span class="speech-style">You:</span> Excuse me! You cannot film other patrons in the library. Stop recording now or I’ll have to ask you to leave.
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Confront (Continued)]]</span>
+
+
+:: \ Farce - Fay unsatisfied {"position":"4250,2700","size":"100,100"}
+Fay continues to cause a big scene, disrupting the library environment for over an hour.
+
+
+
+
+
+:: \ Farce - Ignore {"position":"2725,1200","size":"100,100"}
+<img class="fit-picture" src="images/Farce_Ignore.png" alt="">
+<h1 class="sr-only">Ignore</h1>
+<h1 class="action-style">You ignore Fay. Fay grows louder and starts to make an even bigger scene.</h1>
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Ignore (Continued)]]</span>
+
+
+
+:: Bill Fact 1 {"position":"1250,500","size":"100,100"}
+<img class="fit-picture" src="images/ForrestSpaulding.png"  alt="Portrait of Forrest Spaulding">
+
+<h1 class="header-style">Bonus Fact</h1>
+
+The Library Bill of Rights was created by the Des Moines Public Library Director, Forrest Spaulding (pictured above), in 1938.
+
+According to the Iowa City Public Library, "Spaulding was pressured to censor items in the Des Moines Public Library (DMPL) collection. His response was a Library Bill of Rights presented to the DMPL Board of Trustees."
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Library Bill of Rights 2]]</span>
+
+
+:: Bill Fact 2 {"position":"1375,500","size":"100,100"}
+<img src="images/Censored.png"  alt="Censored stamp">
+
+<h1 class="header-style">Bonus Fact</h1>
+
+The Library Bill of Rights was adopted by the <a href="https://www.ala.org/tools/first-library-bill-rights" target="_blank" rel="noopener noreferrer">American Library Association (ALA)</a> in June of 1939. It was accompanied by a preamble that read, in part: 
+
+“Today indications in many parts of the world point to growing intolerance, suppression of free speech, and censorship affecting the rights of minorities and individuals. Mindful of this, the Council of the American Library Association publicly affirms its belief in the following basic policies.”
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Library Bill of Rights 3]]</span>
+
+
+:: Bill Fact 3 {"position":"1500,500","size":"100,100"}
+<img src="images/BoxingGloves.png" alt="Boxing gloves">
+
+<h1 class="header-style">Bonus Fact</h1>
+
+Article Three mandates that libraries actively fight censorship. It speaks to the importance of resisting book bans but is also pertinent to subtler forms of suppression, such as self-censorship by libraries. 
+
+A 2025 report by Library Futures entitled <a href="https://www.libraryfutures.net/publications/neo-censorship-in-u-s-libraries/" target="_blank" rel="noopener noreferrer">Neo-Censorship in U.S. Libraries: An Investigation Into Digital Content Suppression</a> revealed that increased content bans and the threat of worrisome legislation have a chilling effect on libraries, with librarians reporting “self-censorship” even when content hasn’t been challenged. 
+
+Article Three tells libraries that these forms of soft censorship, too, must be resisted. 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Library Bill of Rights 4]]</span>
+
+
+:: Bill Fact 4 {"position":"1625,500","size":"100,100"}
+<img src="images/BusLibrary.png" alt="Schoolbus outside of a school">
+
+<h1 class="header-style">Bonus Fact</h1>
+
+Debates over "age-appropriate" restrictions have been ongoing in school libraries, where librarians are often pressured to limit access to books. Article Four mandates that school librarians protect students’ right to access diverse materials. Restricting books for all students based on personal objections violates this article.
+
+The  <a href="https://www.ala.org/advocacy/intfreedom/librarybill/interpretations/accessresources"  target="_blank" rel="noopener noreferrer">American Library Association (ALA)</a> writes, "School library policies should remove any barriers and support free and open access to information. School librarians recognize that every parent reserves the right to guide what their learner reads and to select instructional resources that support their family’s unique set of views and opinions but this right to exercise control extends only to their own learner."
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Library Bill of Rights 5]]</span>
+
+
+:: Bill Fact 5 {"position":"1750,500","size":"100,100"}
+<img src="images/EJJosey.png" alt="Portrait of EJ Josey">
+
+<h1 class="header-style">Bonus Fact</h1>
+
+Article Five was added as an amendment to the Library Bill of Rights in 1961.
+
+At this time, Southern libraries barred Black patrons or provided separate and unequal facilities. According to American Libraries Magazine, "Public libraries became an early flashpoint for desegregation ... the <a href="https://en.wikipedia.org/wiki/Greenville_Eight
+" target="new"  rel="noopener noreferrer">Greenville (S.C.) Eight</a> in 1960, the   <a href="https://en.wikipedia.org/wiki/Tougaloo_Nine" target="new"  rel="noopener noreferrer">Tougaloo Nine</a> at the Jackson (Miss.) Public Library in 1961, the <a href="https://www.zinnedproject.org/news/tdih/st-helena-four-library-sit-in/
+" target="new"  rel="noopener noreferrer">St. Helena Four</a> in Greensburg, Louisiana, in 1964, as well as other sit-ins and protests ... led to the desegregation of libraries in the South." 
+
+The American Library Association (ALA) did not address segregation directly until activists like <a href="https://en.wikipedia.org/wiki/E._J._Josey" target="new"  rel="noopener noreferrer">E.J. Josey</a> (a Black librarian) pushed for change. Many libraries initially refused to honor Article Five but it became a tool for those advocating for reform. Article Five also set the stage for later amendments to the Library Bill of Rights, such as the 1967 inclusion of race as a protected category and the 2019 privacy amendment.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Library Bill of Rights 6]]</span>
+
+
+:: Bill Fact 6 {"position":"1875,500","size":"100,100"}
+<img src="images/Microphone2.png"alt="Microphone">
+
+<h1 class="header-style">Bonus Fact</h1>
+
+In 2019, the American Library Association (ALA) wrote <a href="https://www.ala.org/advocacy/intfreedom/librarybill/interpretations/meetingrooms" target="new" rel="noopener noreferrer">an interpretation</a> of Article Six of the Library Bill of Rights. It states:
+
+"Libraries do not advocate for or endorse the viewpoints expressed in meetings by meeting room users, just as they do not endorse the viewpoints of works in their collections ... Libraries should adopt and enforce user behavior policies that protect library users and staff from harassment while maintaining their historic support for the freedom of speech."
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Library Bill of Rights 7]]</span>
+
+
+:: Bill Fact 7 {"position":"2000,500","size":"100,100"}
+<img src="images/LockKey.png" alt="Lock and key">
+
+<h1 class="header-style">Bonus Fact</h1>
+
+Article Seven, which addresses the privacy rights of library users, is the most recent revision to the The Library Bill of Rights. 
+
+Article Seven was added in 2019 in response to increasing digital surveillance, data collection, and threats to library user confidentiality. Government and corporate data collection led library users to grow concerned about the privacy of their personal information. With the rise of digital lending, online databases, and electronic tracking, it was necessary for libraries to reaffirm that privacy protections apply to both digital and physical materials. 
+
+Without privacy rights, library users are likely to self-censor due to fears of surveillance. Article Seven reinforces that privacy is essential to the protection of intellectual freedom within library environments.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Game Start]]</span>
+
+
+:: Choose Chaos {"position":"800,300","size":"100,100"}
+<h1 class="header-style">A Starting Note</h1>
+
+As you move through the game, try replaying scenarios and experimenting with outcomes. In the spirit of learning through play, you are also encouraged to:
+
+
+<img style="width: 200px; height: auto;"  src="images/ChooseChaos2.png"  alt="Choose chaos!">
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Intellectual Freedom]]</span>
+
+
+:: Credits {"position":"1750,2450","size":"100,100"}
+<h1 class="header-style">Game Credits</h1>
+
+<h1 class="action-style">Comic Images</h1>
+Kenny Keil
+
+<h1 class="action-style">Game Design</h1> 
+Michelle Reed
+Laura Crossett
+Siena Oristaglio
+Mia Jakobsen
+
+<h1 class="action-style">Original Presentation</h1>
+Sam Helmick
+
+<h1 class="action-style">Additional Thanks</h1>
+Jenn Sutcliffe
+Seyed Abdollah Shahrokni, Ph.D.
+Beta Testers at the ARSL Conference
+Jess Mitchell
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+
+:: Current Threats {"position":"800,625","size":"100,100"}
+<h1 class="header-style">Current Threats</h1>
+
+Library workers currently face an unprecedented volume of threats to intellectual freedom. 
+
+In recent years, conservative calls to restrict collections have resulted in a signficant rise in book bans and censorship of materials.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Library Bill of Rights]]</span>
+
+
+:: Dilemma - Active Listening {"position":"4250,2850","size":"100,100"}
+<img class="fit-picture" src="images/ActiveListening.png" width="300" height="350" alt="alt">
+
+When actively listening to Dr. Yuss, it’s important to focus on the intent and purpose of the conversation. Pay attention to body language and give encouraging verbal cues. You may also ask questions or encourage them to clarify and paraphrase what they're sharing.
+
+It's important to refrain from judgment when listening. Then, summarize, share, and reflect on the information Dr. Yuss just told you. Here is how you might start that interaction:
+
+<span class="speech-style">You:</span> I’m sorry, Dr. Yuss, I couldn’t hear because I was speaking to another patron. Would you please repeat what you were saying? I'm interested in hearing your thoughts.
+
+
+
+:: Dilemma - Appreciative Curiosity {"position":"4375,2975","size":"100,100"}
+<img class="fit-picture" src="images/AppreciativeCuriosity.png" width="300" height="350" alt="alt">
+
+Practicing appreciative curiosity acknowledges library patron concerns and appreciates the time they are spending to provide feedback. 
+
+Keep an eye on your tone and body language. When applied gently and calmly, appreciative curiosity can de-escalate conversation. It allows both parties to retain control and disarm anger. It honors the First Amendment and professional values.
+
+However, it's not always as easy as it seems. Properly applying it takes time, often out of a busy day. It is a skill that takes practice.
+
+To practice appreciative curiosity: here are some questions you can ask Dr. Yuss:
+
+<span class="speech-style">You:</span> So I can fully understand, would you mind sharing more about your concerns with me?
+
+<span class="move-style">or</span>
+
+<span class="speech-style">You:</span> Are there other resources in the library that have better matched your expectations and needs?
+
+
+
+
+
+
+:: Dilemma - Chaos End Card (Ignore) {"position":"1200,2900","size":"100,100"}
+ <img src="images/the_end.png" width="200" height="auto" alt="">
+<h1 class="sr-only">The End</h1>
+Thanks for choosing chaos! We're glad that you experimented with this option to see what would happen. As you've now discovered, choosing chaos can lead to challenges for you and your library. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Dilemma - Practice Skills (Your Move)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbspView game credits|Credits]]
+
+
+
+As an early game tester, kindly take a few minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScL_lp7b-eDUXhfXcNxjJO9EctFuq4XIsmRa5IXuN_FvKxOnw/viewform" target="new">feedback form</a>! 
+
+
+
+:: Dilemma - Chaos End Card (Revamp) {"position":"1000,2900","size":"100,100"}
+ <img src="images/the_end.png" width="200" height="auto" alt="">
+<h1 class="sr-only">The End</h1>
+Thanks for choosing chaos! We're glad that you experimented with this option to see what would happen. As you've now discovered, choosing chaos can lead to challenges for you and your library. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Dilemma - Practice Skills (Your Move)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbspView game credits|Credits]]
+
+
+
+As an early game tester, kindly take a few minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScL_lp7b-eDUXhfXcNxjJO9EctFuq4XIsmRa5IXuN_FvKxOnw/viewform" target="new">feedback form</a>! 
+
+
+
+:: Dilemma - Check Policies {"position":"1100,1125","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_CheckPolicies.png" alt="">
+<h1 class="sr-only">Check policies</h1>
+<h1 class="action-style">You review the collection development policies and return Dr. Yuss.</h1>
+
+
+<span class="speech-style">You:</span> Okay, Dr. Yuss, acording to our policy, “library print and non-print materials are selected to meet the common interests of all community members, so they reflect a variety of interests, viewpoints, ages, backgrounds, and education levels.”
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Check Policies (Continued)]]</span>
+
+
+:: Dilemma - Check Policies (Continued) {"position":"1100,1250","size":"100,100"}
+<img class="fit-picture"src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
+
+<span class="speech-style">Dr. Yuss:</span> So what do I need to do to get these unscientific books removed?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Check Policies (Your Move)]]</span>
+
+
+:: Dilemma - Check Policies (Your Move) {"position":"1100,1375","size":"100,100"}
+<img class="fit-picture"src="images/Cat_ComputerB.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="move-style">Your move.</h1> 
+
+Do you engage further with Dr. Yuss, consult the [[<span class="info-style">collection development team</span>|Dilemma - Check Policies - Collection Development (Info)]], or ignore Dr. Yuss entirely?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Engage further|Dilemma - Engage (After Policies)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Consult the team|Dilemma - Consult]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Ignore Dr. Yuss|Dilemma - Ignore]]</span>
+
+
+:: Dilemma - Check Policies - Collection Development (Info) {"position":"1250,1350","size":"100,100"}
+<h1 class="header-style">About Collection Development Teams</span>
+
+Library collection development is the process of systematically building the collection of a particular library to meet the information needs of the library users (a service population) in a timely and economical manner, using information resources locally held as well as resources from other organizations. 
+
+A library's collection development team collaborates with library staff to manage collection budgets and recommend new titles to acquire. They may review reporting regarding national and local trends in order to do so.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game |Dilemma - Check Policies (Your Move)]]</span>
+
+
+:: Dilemma - Consult {"position":"1450,1600","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_ConsultTeam.png" alt="Consult team">
+
+<h1 class="action-style">You locate the collection development team. A few members are science enthusiasts who can help you out.</h1>
+
+<span class="speech-style">You:</span> A paleontologist just told me that our dinosaur books are “out of date,” “inaccurate,” “obsolete,” and don’t belong anywhere near children. Are they really that bad?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Consult (Continued)]]</span>
+
+
+:: Dilemma - Consult (Continued Further) {"position":"1450,1875","size":"100,100"}
+<img class="fit-picture" src="images/Cat_Helpful.png" alt="The cat librarian holds up a a paw">
+
+<h1 class="action-style">You return to Dr. Yuss.</h1>
+
+<span class="speech-style">You:</span> Hi, Dr. Yuss. The collection development team said that several of these books are for entertainment purposes — they simply feature dinosaur characters, much like //Goldilocks and the Three Bears//  features animal characters. However, the team will be reviewing our nonfiction collection for outdated materials. Knowing this, would you like to fill out a form regarding your complaint?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Consult (Ending))]]</span>
+
+
+:: Dilemma - Consult (Continued) {"position":"1450,1750","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_ConsultTeam.png" alt="Consult team">
+
+<h1 class="action-style">You show the team some of the books.</h1>
+
+<span class="speech-style">Michelle:</span> Hmmm...Many of these are picture books with dinosaur characters. They aren’t meant to be scientifically accurate.
+
+<span class="speech-style">Laura:</span> Agreed. These are books featuring dinosaur characters, similar to books that feature talking bears or bunnies. 
+
+<span class="speech-style">Jennie:</span> Yes, some books here are just appropriately simplified for their intended audience. That said, we can give our dinosaur books another look, as some of the nonfiction books may be outdated.
+
+<span class="speech-style">You:</span> Great, thanks for your help!
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Consult (Continued Further)]]</span>
+
+
+:: Dilemma - Consult (Ending)) {"position":"1450,2050","size":"100,100"}
+<img class="fit-picture" src="images/GeneYussShrug_wBooks.png" alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
+
+<span class="speech-style">Dr. Yuss:</span> Hmmm, I suppose that makes sense. They really should make those stories more accurate. But at least you'll be reviewing the non-fiction books. Regarding the form...let me think about it. I'm late for an important talk about the dietary habits of the ankylosaurus.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Dr. Yuss Disgruntled (Ending)]]</span>
+
+
+:: Dilemma - Dr. Yuss Disgruntled (Ending) {"position":"1225,2450","size":"100,100"}
+<img class="fit-picture" src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
+
+Dr. Yuss throws up his arms, disgruntled. He walks towards the exit.
+
+
+<h1 class="action-style">Dr. Yuss and Lily Yuss leave the library.</h1>
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Mid End Card (Disengage and Forms)]]</span>
+
+
+:: Dilemma - Dr. Yuss Satisfied (Ending) {"position":"375,2500","size":"100,100"}
+<img class="fit-picture" src="images/Keep_Calm.png" alt="Keep calm and keep calm meme with cat librarian wearing a crown">
+
+Dr. Yuss is satisfied, having been given the opportunity be heard.
+
+
+<h1 class="action-style">Dr. Yuss and Lily Yuss leave the library.</h1>
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Great End Card]]</span>
+
+
+:: Dilemma - Dr. Yuss Unsatisfied (Ending) {"position":"800,2500","size":"100,100"}
+<img class="fit-picture"  src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
+
+<span class="speech-style">Dr. Yuss:</span> Well, this is extremely frustrating. I can't believe this is how my tax dollars are being spent. Lily and I will not be coming back to this library again!
+
+
+<h1 class="action-style">Dr. Yuss leaves in a huff.</h1>
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Chaos End Card (Ignore)]]</span>
+
+
+:: Dilemma - Engage (After Policies) {"position":"1100,1500","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_Engage.png" alt="">
+<h1 class="sr-only">Engage</h1>
+<span class="speech-style">You:</span> If you’d like these books to be considered for formal removal, you’ll need to fill out some forms.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Engage (After Policies)(Continued)]]</span>
+
+
+:: Dilemma - Engage (After Policies)(Continued) {"position":"1100,1625","size":"100,100"}
+<img class="fit-picture" src="images/GeneYuss_actionshot.jpg" alt="Dr. Yuss holds up dinosaur books angrily">
+
+<span class="speech-style">Dr. Yuss:</span> It shouldn't take bunch of paperwork to see how inappropriate these materials are. Look at this book – it shows dinosaurs with  fluffy mammalian fur! And no brachiosaurus ever lived on a glacier! I want action taken immediately.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Engage (Your Move)(After Policies)]]</span>
+
+
+:: Dilemma - Engage (Your Move) {"position":"650,1600","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_Engage.png" alt="">
+<h1 class="sr-only">Engage</h1>
+<h1 class="action-style">You decide to engage with Dr. Yuss.</h1>
+
+How do you try to resolve the situation?
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Listen actively|Dilemma - Listen Actively]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Provide options|Dilemma - Provide Options]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Show appreciative curiosity|Dilemma - Show Appreciative Curiosity]]</span>
+
+
+:: Dilemma - Engage (Your Move)(After Policies) {"position":"1100,1750","size":"100,100"}
+<img class="fit-picture"src="images/Cat_ComputerB.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="move-style">Your move.</h1>
+
+Do you consult with the [[<span class="info-style">collection development team</span>|Dilemma - Engage - Collection Development Team (Info)]], offer Dr. Yuss a $200 budget to re-do the library’s dinosaur section, or respectfully disengage?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Consult with the team|Dilemma - Consult]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Revamp collections|Dilemma - Revamp Collections]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Respectfully disengage|Dilemma - Respectfully Disengage]]
+
+
+:: Dilemma - Engage - Collection Development Team (Forms Info) {"position":"150,1750","size":"100,100"}
+<h1 class="header-style">About Collection Development Teams</h1>
+
+Library collection development is the process of systematically building the collection of a particular library to meet the information needs of the library users (a service population) in a timely and economical manner, using information resources locally held as well as resources from other organizations. 
+
+A library's collection development team collaborates with library staff to manage collection budgets and recommend new titles to aquire. They may review reporting regarding national and local trends in order to do so.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game |Dilemma - Print Forms (Your Move)]]</span>
+
+
+:: Dilemma - Engage - Collection Development Team (Info) {"position":"950,1750","size":"100,100"}
+<h1 class="header-style">About Collection Development Teams</h1>
+
+Library collection development is the process of systematically building the collection of a particular library to meet the information needs of the library users (a service population) in a timely and economical manner, using information resources locally held as well as resources from other organizations. 
+
+A library's collection development team collaborates with library staff to manage collection budgets and recommend new titles to aquire. They may review reporting regarding national and local trends in order to do so.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game |Dilemma - Engage (Your Move)(After Policies)]]</span>
+
+
+:: Dilemma - Great End Card {"position":"200,2900","size":"100,100"}
+ <img src="images/the_end.png" width="200" height="auto" alt="">
+<h1 class="sr-only">The End</h1>
+Congratulations on successfully navigating a challenging scenario! You chose a great option that often leads to positive outcomes with patrons. Your choice de-escalated the situation, left the patron feeling heard and respected, and built the relationship between the patron and the library.
+<br><br>Would you like to go back and practice your patron interaction skills?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbspView game credits|Credits]]
+
+
+
+As an early game tester, kindly take a few minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScL_lp7b-eDUXhfXcNxjJO9EctFuq4XIsmRa5IXuN_FvKxOnw/viewform" target="new">feedback form</a>! 
+
+
+
+:: Dilemma - Ignore {"position":"800,1150","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_Ignore.png" alt="">
+<h1 class="sr-only">Ignore</h1>
+<h1 class="action-style">You ignore Dr. Yuss and begin speaking with another patron.</h1>
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Ignore (Continued)]]</span>
+
+
+:: Dilemma - Ignore (Continued) {"position":"800,1300","size":"100,100"}
+<img class="fit-picture" src="images/GeneYuss_actionshot.jpg" alt="Dr. Yuss holds up dinosaur books angrily">
+
+<h1 class="action-style">Dr. Yuss grows angrier.</h1>
+
+<span class="speech-style">Dr. Yuss:</span> I DEMAND TO BE HEARD ABOUT MY COMPLAINT!
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Ignore (Your Move)]]</span>
+
+
+:: Dilemma - Ignore (Your Move) {"position":"800,1450","size":"100,100"}
+<img class="fit-picture"src="images/Cat_ComputerB.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="move-style">Your move.</h1>
+
+Do you continue to ignore Dr. Yuss, decide to calmly engage with Dr. Yuss, or print out the [[<span class="info-style">book challenge forms</span>|Dilemma - Ignore - Book Challenge Forms(Info)]]?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Keep ignoring Dr. Yuss|Dilemma - Ignore Further (Ending)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Engage with Dr. Yuss|Dilemma - Engage (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Print challenge forms|Dilemma - Print Forms]]</span>
+
+
+:: Dilemma - Ignore - Book Challenge Forms(Info) {"position":"925,1450","size":"100,100"}
+<h1 class="header-style">About Book Challenge Forms</h1>
+
+<a href="https://www.ala.org/tools/challengesupport/requestforreconsideration" target="_blank" rel="noopener noreferrer">Reconsideration forms</a> are the formal mechanism for challenging books in a library setting. Every library should have a <a href="https://www.ala.org/tools/challengesupport/selectionpolicytoolkit/formalreconsideration" target="_blank" rel="noopener noreferrer">written policy</a> for book challenges that include reconsideration forms as a first step. Libraries often publish their reconsideration policies online to increase transparency with their users. The American Library Association provides <a href="https://www.ala.org/tools/challengesupport" target="_blank" rel="noopener noreferrer">extensive resources</a> to help libraries create book challenge policies.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game|Dilemma - Ignore (Your Move)]]</span>
+
+
+
+
+
+:: Dilemma - Ignore Further (Ending) {"position":"900,1600","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_Ignore.png" alt="alt">
+
+<h1 class="action-style">You continue ignoring Dr. Yuss and focus on organizing papers behind the service desk.</h1>
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Dr. Yuss Unsatisfied (Ending)]]</span>
+
+
+
+:: Dilemma - Listen Actively {"position":"650,1900","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_ActiveListening.png" alt="">
+<h1 class="sr-only">Listen actively</h1>
+<h1 class="action-style">You decide to listen actively to Dr. Yuss' concerns.</h1>
+
+When actively listening to Dr. Yuss, it’s important to focus on the intent and purpose of the points raised. Pay attention to body language and give encouraging verbal cues. You might also ask questions or encourage Dr. Yuss to clarify or paraphrase.
+
+Try to refrain from expressing judgment. Then summarize, share, and reflect on what you were told.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Listen Actively (Continued)]]</span>
+
+
+:: Dilemma - Listen Actively (Continued) {"position":"650,2100","size":"100,100"}
+<img class="fit-picture" src="images/Cat_WarmResponse.png" alt="The cat librarian appears curious">
+
+<h1 class="action-style">Here are some ways you might start that interaction:</h1>
+
+<span class="speech-style">You:</span> I’m sorry, Dr. Yuss, I didn't quite follow what you were saying. Would you please repeat what you were saying a bit more slowly? I'm very interested in hearing your thoughts on this.
+
+<span class="speech-style">You:</span> I see you are upset about this, and I want to understand why. Can you explain further so I can find a way to help?
+
+<span class="speech-style">You:</span> I want to hear more about what's upsetting you. Would you like to go someplace quieter so I can hear all of your concerns?
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)]]</span>
+
+
+:: Dilemma - Mid End Card (Consult) {"position":"800,2900","size":"100,100"}
+ <img src="images/the_end.png" width="200" height="auto" alt="">
+<h1 class="sr-only">The End</h1>
+You've navigated a challenging scenario and chose a viable option. However, it can end in a less-than-ideal outcome because it puts your collection development team on the spot, disregards the formal reconsideration process, and can give the impression that the library will handle all complaints immediately. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Dilemma - Engage (Your Move)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbspView game credits|Credits]]
+
+
+
+As an early game tester, kindly take a few minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScL_lp7b-eDUXhfXcNxjJO9EctFuq4XIsmRa5IXuN_FvKxOnw/viewform" target="new">feedback form</a>! 
+
+
+
+:: Dilemma - Mid End Card (Disengage and Forms) {"position":"500,2900","size":"100,100"}
+ <img src="images/the_end.png" width="200" height="auto" alt="">
+<h1 class="sr-only">The End</h1>
+You've navigated a challenging scenario and chose a viable option. However, it ended in a less-than-ideal outcome because your choice can ultimately lead to patrons feeling unheard or even disrespected. This unfortunately fails to build the relationship between the patron and the library.
+<br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Dilemma - Practice Skills (Your Move)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbspView game credits|Credits]]
+
+
+
+As an early game tester, kindly take a few minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScL_lp7b-eDUXhfXcNxjJO9EctFuq4XIsmRa5IXuN_FvKxOnw/viewform" target="new">feedback form</a>! 
+
+
+
+:: Dilemma - Practice Skills (Your Move) {"position":"50,1925","size":"100,100"}
+<img class="fit-picture" src="images/Dilemma_PracticeSkills.png" alt="">
+<h1 class="sr-only">Engage</h1>
+<h1 class="action-style">You decide to practice your patron interaction skills.</h1>
+
+Which skill do you use to try to resolve the situation?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Listen actively|Dilemma - Listen Actively]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Provide options|Dilemma - Provide Options]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Show appreciative curiosity|Dilemma - Show Appreciative Curiosity]]</span>
+
+
+:: Dilemma - Print Forms {"position":"300,1125","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_PrintChallengeForms.png" alt="">
+<h1 class="sr-only">Print challenge forms</h1>
+<span class="speech-style">You:</span> Dr. Yuss, here is a packet of materials that includes the library’s mission statement, selection policy, the Request for Review of Library Materials form, and the Library Bill of Rights! 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Print Forms (Continued)]]</span>
+
+
+
+
+:: Dilemma - Print Forms (Continued Again) {"position":"300,1475","size":"100,100"}
+<img class="fit-picture" src="images/Cat_withForm.jpg" alt="The cat librarian places book challenge forms on the desk">
+
+<span class="speech-style">You:</span> Our administration will review your concerns and the books to decide whether the materials are in line with our collection policy. The books will remain in circulation until a decision is made.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Print Forms (Continued Further)]]</span>
+
+
+:: Dilemma - Print Forms (Continued Further) {"position":"300,1600","size":"100,100"}
+<img class="fit-picture"src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
+
+<h1 class="action-style">Dr. Yuss grows frustrated and throws up his arms.</h1>
+
+<span class="speech-style">Dr. Yuss:</span> I can't believe it! Children should not be learning inaccurate information while all this bureaucratic mumbo-jumbo goes on! 
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Print Forms (Your Move)]]</span>
+
+
+:: Dilemma - Print Forms (Continued) {"position":"300,1325","size":"100,100"}
+<img class="fit-picture" src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
+
+<span class="speech-style">Dr. Yuss:</span> Hmmm. What happens after I submit these cumbersome forms?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Print Forms (Continued Again)]]</span>
+
+
+:: Dilemma - Print Forms (Ending) {"position":"300,2100","size":"100,100"}
+<img class="fit-picture"  src="images/GeneYussShrug_wBooks.png"  alt="Dr. Yuss shrugs. Lily Yuss looks up at him.">
+
+<span class="speech-style">Dr. Yuss:</span> Fine. I don’t think the responsibility of monitoring the library for inaccurate information should fall to the patrons, but I suppose that’s how you all spend our taxpayer money these days.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Disgruntled (Ending)]]</span>
+
+
+:: Dilemma - Print Forms (Explain Policies)) {"position":"300,1900","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_ExplainLibraryPolicy.png" alt="">
+<h1 class="sr-only">Explain library policy</h1>
+
+<span class="speech-style">You:</span> I appreciate your concern, Dr. Yuss. Once you fill out the form, our director will respond to you within 15 business days. If you’re not happy with the response, you can appeal to the Library Board of Trustees.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Print Forms (Ending)]]</span>
+
+
+:: Dilemma - Print Forms (Your Move) {"position":"300,1750","size":"100,100"}
+<img class="fit-picture"src="images/Cat_ComputerB.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="move-style">Your move.</h1>
+
+Do you patiently continue to explain the challenge policies, decide to offer Dr. Yuss a $200 budget on the spot to re-do the library’s dinosaur section, or consult the  [[<span class="info-style">collection development team</span>|Dilemma - Engage - Collection Development Team (Forms Info)]]?
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Explain policies |Dilemma - Print Forms (Explain Policies))]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Revamp collections |Dilemma - Revamp Collections]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Consult the team|Dilemma - Consult]]
+
+
+
+
+:: Dilemma - Provide Options {"position":"825,1900","size":"100,100"}
+<img class="fit-picture" src="images/ProvideOptionsNOBG.png" alt="">
+<h1 class="sr-only">Provide options</h1>
+<h1 class="action-style">You decide to provide Dr. Yuss with options.</h1>
+
+Offering Dr. Yuss a range of options often provides a sense of equity in the conversation. While your answer may be “no,” packaging that “no” as a set of options gives Dr. Yuss the power of choice. 
+
+Allowing patrons to imagine desirable outcomes before escalating a challenge often leads to a quicker resolution.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Provide Options (Continued)]]</span>
+
+
+:: Dilemma - Provide Options (Continued) {"position":"825,2100","size":"100,100"}
+<img class="fit-picture" src="images/Cat_NeutralPose.png" alt="The cat librarian is smiling and talking">
+
+<h1 class="action-style">Here are some ways you can provide options to Dr. Yuss:</h1>
+
+<span class="speech-style">You:</span> What might a satisfying outcome look like for you? I can print out a book reconsideration form or discuss your concerns with our Collection Development Team. 
+
+<span class="speech-style">You:</span> Our initial step would be to share this feedback with our Collection Development Team. You can also fill out a book reconsideration form, if you'd prefer. What would be your ideal next step?
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)]]</span>
+
+
+:: Dilemma - Providing Options {"position":"4375,2850","size":"100,100"}
+<img class="fit-picture" src="images/ProvideOptions.png" width="300" height="350" alt="alt">
+
+Offering Dr. Yuss a range of options often provides a sense of equity and power in the discussion. While your answer may be “no,” packaging that “no” as an option still creates a choice. 
+
+Let the patron imagine desirable outcomes before engaging the escalation key of potential responses to a challenge. Here are some questions you can ask Dr. Yuss provide options:
+
+<span class="speech-style">You:</span> What might a satisfying outcome look like for you?
+
+<span class="move-style">or</span>
+
+<span class="speech-style">You:</span> What are your ideal next steps?
+
+<span class="move-style">or</span>
+
+<span class="speech-style">You:</span> Our initial step would be to share this feedback with our Collection Development Team. Does that work for you?
+
+<span class="move-style">or</span>
+
+<span class="speech-style">You:</span> Would you like to fill out an official complaint form?
+
+
+
+
+:: Dilemma - Respectfully Disengage {"position":"1100,1900","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_RespectfullyDisengage.png" alt="">
+<h1 class="sr-only">Respectfully disengage</h1>
+<h1 class="action-style">You respectfully disengage from the conversation with Dr. Yuss.</h1>
+
+When disengaging, it is helpful to reframe the last thing the patron said, tell them you will do your best to address their concerns, and and quickly say goodbye. 
+
+You may want to check your watch (imaginary watches work too!), say "just one more thing" to indicate the discussion is ending, cross your arms, and use closed body language.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Respectfully Disengage (Ending)]]</span>
+
+
+:: Dilemma - Respectfully Disengage (Ending) {"position":"1100,2075","size":"100,100"}
+<img class="fit-picture" src="images/JustOneMoreThing.png" alt="Just one more thing meme with cat librarian">
+
+<h1 class="action-style">Here are some phrases you can use to respectfully disengage: </h1>
+
+<span class="speech-style">YOU:</span> Thank you for sharing your concerns. I'll make sure to discuss them with the library staff.
+
+<span class="speech-style">YOU:</span> Okay, just one more thing... I'm hearing you say that you want us to review our dinosaur books for inaccurate information. I'll be sure to bring this up with the [[<span class="info-style">collection development team</span>|Dilemma - Respectfully Disengage - Collection Development Team (Info)]].
+
+<span class="speech-style">YOU:</span> I have another meeting to go to, but thank you for sharing your concerns. I'll do my best to address them. Have a nice afternoon!
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Dr. Yuss Disgruntled (Ending)]]</span>
+
+
+:: Dilemma - Respectfully Disengage - Collection Development Team (Info) {"position":"975,2100","size":"100,100"}
+<h1 class="header-style">About Collection Development Teams</h1>
+
+Library collection development is the process of systematically building the collection of a particular library to meet the information needs of the library users (a service population) in a timely and economical manner, using information resources locally held as well as resources from other organizations. A library's collection development team collaborates with library staff to manage collection budgets and recommend new titles to aquire. They may review reporting regarding national and local trends in order to do so.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Respectfully Disengage (Ending)]]</span>
+
+
+
+:: Dilemma - Revamp Collections {"position":"1275,1875","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_RevampCollections.png" alt="">
+<h1 class="sr-only">Revamp collections</h1>
+<h1 class="action-style">You offer Dr. Yuss a $200 budget to revamp your collections.</span> 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Revamp Collections (Continued)]]</span>
+
+
+:: Dilemma - Revamp Collections (Continued) {"position":"1275,2025","size":"100,100"}
+<img class="fit-picture" src="images/GeneYussStanding_wBooks.png" alt="Dr. Gene Yuss and Lily Yuss stand at the library desk, surprised">
+
+<h1 class="action-style">Dr. Yuss is shocked and pleased with your decision.</h1>
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Revamp Collections (Ending)]]</span>
+
+
+:: Dilemma - Revamp Collections (Ending) {"position":"1275,2175","size":"100,100"}
+<img class="fit-picture" src="images/GameofTomes.png" alt="Prepare yourself for a game of tomes meme with cat librarian">
+
+<h1 class="action-style">However, the collection development team is not, given that you did not consult with them.</h1>
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Chaos End Card (Ignore)]]</span>
+
+
+:: Dilemma - Scene {"position":"4250,2975","size":"100,100"}
+<img class="fit-picture" style="max-width: 100%; height: auto;"  src="images/Dilemma_SceneCard.png" width="650" height="200" alt="alt">
+  
+In this scenario, you work at the Unicorn Public Library. One day, Dr. Gene Yuss comes in with their child, Lily, and makes a complaint. 
+
+
+
+
+:: Dilemma - Show Appreciative Curiosity {"position":"500,1900","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_ShowAppreciativeCuriosity.png" alt="">
+<h1 class="sr-only">Show appreciative curiosity</h1>
+<h1 class="action-style">You decide to approach Dr. Yuss with appreciative curiosity.</h1>
+
+Appreciative curiosity acknowledges patron concerns and expresses gratitude for time spent on providing feedback. When applied gently and calmly, it can de-escalate a conversation as it disarms anger and allows both parties to retain control. It honors First Amendment and professional values.
+
+However, expressing appreciative curiosity is not always as easy as it seems. Properly applying it takes time, often out of a busy day. It is a skill that requires practice. 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Show Appreciative Curiosity (Continued))]]</span>
+
+
+
+
+:: Dilemma - Show Appreciative Curiosity (Continued)) {"position":"475,2100","size":"100,100"}
+<img class="fit-picture" src="images/Cat_WarmResponse.png" alt="The cat librarian appears curious">
+
+<h1 class="action-style">To practice appreciative curiosity, here are some questions you can ask Dr. Yuss:</h1>
+
+<span class="speech-style">You:</span> I see you are upset, and I want to hear more. How can I help?
+
+<span class="speech-style">You:</span> I'm grateful that you are sharing your concerns. What can I do to improve your experience at the library?
+
+<span class="speech-style">You:</span> Would you like to go someplace quieter so I can hear all of your concerns?
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Dilemma - Practice Skills (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Dilemma - Dr. Yuss Satisfied (Ending)]]</span>
+
+
+:: Dilemma - Start Scene {"position":"1325,1000","size":"100,100"}
+<img style="max-width: 100%; height: auto;" src="images/UnicornLibrary.png" alt="Library exterior with a unicorn logo">
+In this scenario, you work at the Unicorn Public Library. One day, Dr. Gene Yuss comes in with their child, Lily, and makes a complaint. 
+
+
+
+[[<img src="images/continuearrow.png" alt="Add alt text here"><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Start Scene (Continued)]]</span>
+
+
+:: Dilemma - Start Scene (Continued) {"position":"1100,1000","size":"100,100"}
+<img class="fit-picture" src="images/GeneYuss_actionshot.jpg" alt="Dr. Yuss, an elderly frog, holds up dinosaur books angrily">
+  
+<span class="speech-style">Dr. Yuss:</span> I need to speak to someone in charge! My child brought these dinosaur books home last week and every single one is completely out of date! I’m a paleontologist. I know my stuff. I want all of these disgraceful books removed from the library and replaced with scientifically accurate materials immediately!
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Dilemma - Start Scene (Your Move)]]</span>
+
+
+:: Dilemma - Start Scene (Your Move) {"position":"800,1000","size":"100,100"}
+<img class="fit-picture" src="images/Cat_ComputerB.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="move-style">Your move.</h1>
+
+Do you ask Dr. Yuss to wait while you get out your [[<span class="info-style">policy documents</span>|Dilemma - Start Scene - Library Policies (Info)]], start immediately printing off [[<span class="info-style">book challenge forms</span>|Dilemma - Start Scene - Challenge Form (Info)]], or ignore Dr. Yuss entirely?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Check policies|Dilemma - Check Policies]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Print challenge forms|Dilemma - Print Forms]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Ignore Dr. Yuss|Dilemma - Ignore]]
+
+
+:: Dilemma - Start Scene - Challenge Form (Info) {"position":"700,900","size":"100,100"}
+<h1 class="header-style">About Book Challenge Forms</h1>
+
+<a href="https://www.ala.org/tools/challengesupport/requestforreconsideration" target="_blank" rel="noopener noreferrer">Reconsideration forms</a> are the formal mechanism for challenging books in a library setting. Every library should have a <a href="https://www.ala.org/tools/challengesupport/selectionpolicytoolkit/formalreconsideration" target="_blank" rel="noopener noreferrer">written policy</a> for book challenges that include reconsideration forms as a first step. Libraries often publish their book challenge policies online to increase transparency with their users. The American Library Association (ALA) provides <a href="https://www.ala.org/tools/challengesupport" target="_blank" rel="noopener noreferrer">extensive resources</a> to help libraries create book challenge policies.
+
+Keep in mind that <a href="https://bookriot.com/librarian-criminalization-bills-are-growing/" target="_blank" rel="noopener noreferrer">librarian criminalization bills</a> are on the rise. It is important to stay up to date on local laws reguarding book challenges.
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game|Dilemma - Start Scene (Your Move)]]</span>
+
+
+:: Dilemma - Start Scene - Library Policies (Info) {"position":"900,900","size":"100,100"}
+<h1 class="header-style">About Library Policies</h1>
+
+Library policies are written documents that dictate how library staff are expected to respond in various situations they may encounter. Formal policies are critical for assisting in situations such as book challenges, as they provide official guidance on processes for resolution.
+
+Library policies typically incorporate local, state, and/or federal laws. It may be useful to conduct additional research into these laws as there are sometimes creative ways to apply them to library activities. A recent zine from Library Futures entitled <a href="https://www.libraryfutures.net/post/fight-for-your-right-to-digitize-with-new-zine" target="_blank" rel="noopener noreferrer">Know Your Rights: Radical Digital Lending for Libraries</a> details new ways to think about library lending and civil rights.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game|Dilemma - Start Scene (Your Move)]]</span>
+
+
+:: Dilemma Crossroads {"position":"4125,2850","size":"100,100"}
+<img class="fit-picture" src="images/GeneYuss_actionshot.jpg" width="275" height="200" alt="alt">
+
+<h1 class="action-style">Dr. Yuss continues to stare at you angrily, refusing to leave.</h1> <h1 class="move-style">Your move.</h1>
+
+Do you keep ignoring Dr. Yuss, decide to engage, or consult with the Collection Development Team?
+
+
+Keep ignoring Dr. Yuss|Dilemma - Dr. Yuss Unsatisfied (Ending)
+
+Decide to engage|Dilemma - Engage (Version Two)
+
+Consult with the team|Dilemma - Consult
+
+
+:: Farce -  Respectfully Disengage {"position":"2725,1600","size":"100,100"}
+<img class="fit-picture" src="images/Farce_RespectfullyDisengage.png" alt="">
+<h1 class="sr-only">Respectfully disengage</h1>
+<h1 class="action-style">You respectfully disengage from the conversation with Fay. </h1>
+
+When disengaging, it is helpful to reframe the last thing the patron said, tell them you will do your best to address their concerns, and and quickly say goodbye. 
+
+You may want to check your watch (imaginary watches work too!), say "just one more thing" to indicate the discussion is ending, cross your arms, and use closed body language.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Respectfully Disengage (Continued)]]</span>
+
+
+:: Farce - About Pressure Groups (Info)(Continued) {"position":"1850,1850","size":"100,100"}
+<h1 class="header-style">More About Pressure Groups</h1>
+
+According to the ALA, "The most common justifications for censorship provided by complainants were false claims of illegal obscenity for minors; inclusion of LGBTQIA+ characters or themes; and covering topics of race, racism, equity, and social justice."
+
+A 2025 report by Library Futures entitled <a href="https://www.libraryfutures.net/publications/neo-censorship-in-u-s-libraries/" target="_blank" rel="noopener noreferrer">Neo-Censorship in U.S. Libraries: An Investigation Into Digital Content Suppression</a>, demonstrates that many challenges against so-called "inappropriate" or "pornographic" materials within libraries are "purposeful acts of disinformation presented with false narratives about the source, context, or character of the information."
+
+The report also details how these claims can be harmful to minors, given that they are frequently "based on discriminatory ideologies that can negatively impact children’s learning, civil rights, and wellbeing."
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game|Farce - Research Laws (Continued)]]</span>
+
+
+:: Farce - Chaos End Card {"position":"2300,2875","size":"100,100"}
+ <img src="images/the_end.png" width="200" height="auto" alt="">
+<h1 class="sr-only">The End</h1>
+Thanks for choosing chaos! We're glad that you experimented with this option to see what would happen. As you've now discovered, choosing chaos can lead to challenges for you and your library. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Farce - Practice Skills (Your Move)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbspView game credits|Credits]]
+
+
+
+As an early game tester, kindly take a few minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScL_lp7b-eDUXhfXcNxjJO9EctFuq4XIsmRa5IXuN_FvKxOnw/viewform" target="new">feedback form</a>! 
+
+
+
+:: Farce - Check Policies {"position":"2075,1200","size":"100,100"}
+<img class="fit-picture" src="images/Farce_CheckPolicies.png" alt="Check Policies">
+<h1 class="sr-only">Check policies</h1>
+<h1 class="action-style">You check the library's policies and find this passage:</h1>
+
+"Code of Conduct — Verbally or physically harassing or threatening other patrons, volunteers, or staff will not be tolerated. Harassment may include, but is not limited to: initiating unwanted conversation; impeding access to or within the building; or other behavior that reasonably can be perceived to be hostile, threatening, intrusive, or offensive."
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Check Policies (Your Move)]]</span>
+
+
+:: Farce - Check Policies (Your Move) {"position":"2075,1400","size":"100,100"}
+<img class="fit-picture"src="images/FarceCatComputerA.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="move-style">Your Move.</h1>
+
+Armed with this policy knowledge, do you explain library policies to Fay, read more about  [[<span class="info-style">local laws</span>|Farce - Check Policies (Your Move) - Local Laws (info)]], or confront Fay angrily?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Explain library policy |Farce - Explain Library Policy (Continued)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Research local laws |Farce - Research Laws]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Confront Fay | Farce - Confront]]</span>
+
+
+:: Farce - Check Policies (Your Move) - Local Laws (info) {"position":"1900,1400","size":"100,100"}
+<h1 class="header-style">About Local Laws</h1>
+
+It is wise to familiarize yourself with the local laws governing your library as different states and counties may have specific laws pertaining to disorderly conduct, harrassment, public filming, and/or how many parties must consent to being recorded. 
+
+Researching local laws is also useful as there may be creative ways to apply these laws to digital lending and other library activities. A recent zine from Library Futures entitled <a href="https://www.libraryfutures.net/post/fight-for-your-right-to-digitize-with-new-zine" target="_blank" rel="noopener noreferrer">Know Your Rights: Radical Digital Lending for Libraries</a> details new ways to think about library lending and civil rights.
+
+Lastly, keep in mind that <a href="https://bookriot.com/librarian-criminalization-bills-are-growing/" target="_blank" rel="noopener noreferrer">librarian criminalization bills</a> are on the rise. It is important to stay up to date on local laws reguarding this issue. 
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game|Farce - Check Policies (Your Move)]]</span>
+
+
+:: Farce - Confront (Continued) {"position":"2475,1325","size":"100,100"}
+<img class="fit-picture" src="images/FayeFilming_Selfie.png" alt="Fay talking to livestream followers">
+
+<span class="speech-style">Fay:</span> Do you all hear this? This librarian at the Rainbow PUBLIC Library is saying I don’t have FIRST AMENDMENT RIGHTS to be in a PUBLIC space. Just what do you have to hide? Are there things here you don’t want people to see? I just want people to know how their taxpayer money is being spent!
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Confront (Your Move)]]</span>
+
+
+:: Farce - Confront (Your Move) {"position":"2500,1475","size":"100,100"}
+<img class="fit-picture"src="images/FarceCatComputerA.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="move-style">Your move.</h1>
+
+Do you try to de-escalate by calmly engaging with Fay, report Fay to your supervisor, or begin yelling at Fay?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Practice Skills|Farce - Engage (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Report Fay |Farce - Report]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Yell at Fay|Farce - Yell]]</span>
+
+
+:: Farce - Continue Yelling (Ending) {"position":"2550,2475","size":"100,100"}
+<img class="fit-picture" src="images/Farce_Yell.png" alt="">
+<h1 class="sr-only">Yell</h1>
+<h1 class="action-style">You continue yelling at Fay.</h1>
+
+Your escalation causes Fay to make an even bigger scene, disrupting the library environment for several hours. A video of your interaction goes viral online.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Chaos End Card]]</span>
+
+
+:: Farce - Divide and support {"position":"4375,2700","size":"100,100"}
+
+Add divide and support text.
+  
+
+
+
+
+:: Farce - Engage (Ending) {"position":"3250,2500","size":"100,100"}
+<img class="fit-picture" src="images/Keep_Calm.png" alt="Keep calm and keep calm meme with cat librarian wearing a crown">
+
+Fay is surprised by your calm, positive, and curious attitude. She continues chatting with her followers for a few minutes and then logs off and leaves the library.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Great End Card]]</span>
+
+
+:: Farce - Engage (Your Move) {"position":"3275,1375","size":"100,100"}
+<img class="fit-picture" src="images/Farce_Engage.png" alt="">
+<h1 class="sr-only">Engage</h1>
+<h1 class="action-style">You decide to calmly engage with Fay.</h1>
+
+How do you to try to resolve the situation?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Listen actively|Farce - Listen Actively]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Provide options|Farce - Provide Options]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Show appreciative curiosity|Farce - Show Appreciative Curiosity]]</span>
+
+
+:: Farce - Explain Library Policy (Continued) {"position":"2175,1550","size":"100,100"}
+<img class="fit-picture" src="images/Farce_ExplainPolicy.png" alt="">
+<h1 class="sr-only">Explain library policy</h1>
+<h1 class="move-style">You walk over to Fay and begin to explain library policy to her.</h1>
+
+Fay tells you she doesn’t care. The [[<span class="info-style">advocacy group</span>|Farce - Explain Library Policy - Pressure Groups (Info)]] that she is a part of told her that she was within her rights to record wherever and whatever she desires inside the library. 
+
+She tells you she plans to stay all day. She’s going to continue recording the staff who are henceforth referred to as the Rainbow Public Library oppressors. 
+
+Her followers ''MUST KNOW THE TRUTH''. 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Research and Explain (Your Move)]]</span>
+
+
+
+
+:: Farce - Explain Library Policy - Pressure Groups (Info) {"position":"2325,1550","size":"100,100"}
+<h1 class="header-style">About Pressure Groups</h1>
+
+Pressure groups (also known as advocacy groups, lobby groups, or interest groups) are organizations that seek to influence public policy on specific issues.
+
+In 2024, the American Library Association's (ALA) Office for Intellectual Freedom reported <a href="https://www.ala.org/news/2024/03/american-library-association-reports-record-number-unique-book-titles" target="_blank" rel="noopener noreferrer">4,240 unique titles</a> challenged in the previous year.  According to <a href="https://www.ala.org/bbooks/book-ban-data" target="_blank" rel="noopener noreferrer">data gathered</a> by the ALA, 72% of demands to restrict books in school and public libraries were initiated by organized groups.
+
+Moms for Liberty is a conservative group launched in 2021. They advocate for removing books that they consider to be inappropriate from school libraries, including titles representing BIPOC and LGBTQ+ individuals. They now claim <a href="https://www.cbsnews.com/news/war-of-words-the-fight-over-banning-books/" target="_blank" rel="noopener noreferrer">275 chapters</a> across 45 states, and counting.
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Explain Library Policy (Continued)]]</span>
+
+
+:: Farce - Great End Card {"position":"3250,2875","size":"100,100"}
+ <img src="images/the_end.png" width="200" height="auto" alt="">
+<h1 class="sr-only">The End</h1>
+Congratulations on successfully navigating a challenging scenario! You chose a great option that often leads to positive outcomes with patrons. Your choice de-escalated the situation, left the patron feeling heard and respected, and built the relationship between the patron and the library.
+<br><br>Would you like to go back and practice your patron interaction skills?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Farce - Practice Skills (Your Move)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbspView game credits|Credits]]
+
+
+
+As an early game tester, kindly take a few minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScL_lp7b-eDUXhfXcNxjJO9EctFuq4XIsmRa5IXuN_FvKxOnw/viewform" target="new">feedback form</a>! 
+
+
+
+:: Farce - Ignore (Continued) {"position":"2725,1325","size":"100,100"}
+<img class="fit-picture" src="images/FayeYelling_wFarce.png" alt="Fay Knuse filming the librarian">
+
+<span class="speech-style">Fay:</span> THIS LIBRARY IS TRAMPLING ON MY RIGHTS! I DEMAND TO SPEAK WITH SOMEONE WHO WORKS HERE!
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Ignore (Your Move)]]</span>
+
+
+
+:: Farce - Ignore (Your Move) {"position":"2725,1450","size":"100,100"}
+<img class="fit-picture" src="images/FarceCatSuggesting.png" alt="Calm cat librarian at counter">
+
+<h1 class="move-style">Your move.</h1>
+
+Do you confront Fay angrily, check the [[<span class="info-style">library policies</span>|Farce - Ignore (Your Move) - Library Policies (Info)]], or decide to calmly engage with Fay?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Confront Fay | Farce - Confront]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Check policies |Farce - Check Policies]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Practice skills|Farce - Engage (Your Move)]]</span>
+
+
+:: Farce - Ignore (Your Move) - Library Policies (Info) {"position":"2875,1450","size":"100,100"}
+<h1 class="header-style">About Library Policies</h1>
+
+Library policies are written documents that dictate how library staff are expected to respond in various situations they may encounter. Formal policies are critical for assisting in situations such as book challenges, as they provide official guidance on processes for resolution.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game|Farce - Ignore (Your Move)]]</span>
+
+
+:: Farce - Listen Actively {"position":"3000,1800","size":"100,100"}
+<img class="fit-picture" src="images/Farce_ActiveListening.png" alt="">
+<h1 class="sr-only">Listen Actively</h1>
+<h1 class="action-style">You decide to listen actively to Fay's concerns.</h1>
+
+When actively listening to Fay, it’s important to focus on the intent and purpose of the points raised. Pay attention to body language and give encouraging verbal cues. You might also ask questions or encourage Fay to clarify or paraphrase.
+
+Try to refrain from expressing judgment. Then summarize, share, and reflect on what you were told.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Listen Actively (Continued)]]</span>
+
+
+:: Farce - Listen Actively (Continued) {"position":"3025,1950","size":"100,100"}
+<img class="fit-picture" src="images/FarceCatSuggesting.png" alt="Calm cat librarian at counter">
+<h1 class="action-style">Here are some ways you might start that interaction:</h1>
+
+<span class="speech-style">You:</span> I’m sorry, Fay, I didn't quite follow what you were saying. Would you kindly repeat yourself a bit more slowly? I'm very interested in hearing your thoughts on this.
+
+<span class="speech-style">You:</span> I see you are upset about this, and I want to understand why. Can you explain further so I can find a way to help?
+
+<span class="speech-style">You:</span> I want to hear more about what's upsetting you. Would you like to go someplace quieter so I can hear all of your concerns?
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Farce - Practice Skills (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Engage (Ending)]]</span>
+
+
+:: Farce - Mid End Card {"position":"2775,2875","size":"100,100"}
+ <img src="images/the_end.png" width="200" height="auto" alt="">
+<h1 class="sr-only">The End</h1>
+You've navigated a challenging scenario and chose a viable option. However, it ended in a less-than-ideal outcome because your choice can ultimately lead to patrons feeling unheard or even disrespected. This unfortunately fails to build the relationship between the patron and the library.. <br><br>Would you like to go back and practice some patron interaction skills to improve your outcome?<br><br>[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice skills|Farce - Practice Skills (Your Move)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Play another scenario|Game Start]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Restart game|Welcome]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbspView game credits|Credits]]
+
+
+
+As an early game tester, kindly take a few minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScL_lp7b-eDUXhfXcNxjJO9EctFuq4XIsmRa5IXuN_FvKxOnw/viewform" target="new">feedback form</a>! 
+
+
+
+:: Farce - Practice Skills (Your Move) {"position":"3800,2100","size":"100,100"}
+<img class="fit-picture" src="images/Farce_PracticeSkills.png" alt="">
+<h1 class="sr-only">Engage</h1>
+<h1 class="action-style">You decide to practice your patron interactions skills.</h1>
+
+Which skill do you use to try to resolve the situation?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Listen actively|Farce - Listen Actively]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Provide options|Farce - Provide Options]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Show appreciative curiosity|Farce - Show Appreciative Curiosity]]</span>
+
+
+:: Farce - Provide Options {"position":"3250,1800","size":"100,100"}
+<img class="fit-picture" src="images/Farce_ProvideOptions.png" alt="">
+<h1 class="sr-only">Provide Options</h1>
+<h1 class="action-style">You decide to provide Fay with options.</h1>
+
+Offering Fay a range of options often provides a sense of equity in the conversation. While your answer may be “no,” packaging that “no” as a set of options gives Fay the power of choice. 
+
+Allowing patrons to imagine desirable outcomes before escalating a challenge often leads to a quicker resolution.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Provide Options (Continued)]]</span>
+
+
+:: Farce - Provide Options (Continued) {"position":"3250,1950","size":"100,100"}
+<img class="fit-picture" src="images/FarceCatSuggesting.png" alt="Calm cat librarian at counter">
+<h1 class="action-style">Here are some ways you can provide options to Fay:</h1>
+
+<span class="speech-style">You:</span> I'd love to hear more about what's bothering you. We can either continue to discuss here or go to a conference room where it's more quiet. Which would you prefer?  
+
+<span class="speech-style">You:</span> Thanks for sharing your thoughts on this. If you'd like, we can sit down in a conference room together or I can grab my supervisor to speak with you further. What would be your ideal next step?
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Farce - Practice Skills (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Engage (Ending)]]</span>
+
+
+:: Farce - Report {"position":"2300,1950","size":"100,100"}
+<img class="fit-picture" src="images/Farce_ReporttoSupervisor.png" alt="">
+<h1 class="sr-only">Report to supervisor</h1>
+<h1 class="action-style">You report Fay to your supervisor, who steps in to handle the situation.</h1>
+
+Your supervisor shows appreciative curiosity about Fay's concerns, listens actively, and provides Fay with options of how the situation can be resolved.
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Report (Ending)]]</span>
+
+
+:: Farce - Report (Ending) {"position":"2200,2475","size":"100,100"}
+<img class="fit-picture" src="images/FayeReactingtoCalm.png" alt="Fay is surprised">
+
+Fay is caught off guard by your supervisor's calm, positive, and curious attitude. She speaks with your supervisor for some time before logging off the livestream and leaving the library.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Great End Card]]</span>
+
+
+:: Farce - Research Laws {"position":"1975,1550","size":"100,100"}
+<img class="fit-picture" src="images/Farce_Research.png" alt="">
+<h1 class="sr-only">Research</h1>
+<h1 class="move-style">You research local laws in your area and discover this passage:</h1>
+
+"Privacy Expectations for Recorded Conversations — When recording an in-person conversation, state law requires the consent of all parties if those being recorded have a reasonable expectation of privacy."
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Research Laws (Continued)]]</span>
+
+
+:: Farce - Research Laws (Continued) {"position":"1975,1700","size":"100,100"}
+<img class="fit-picture" src="images/Farce_Research.png" alt="">
+<h1 class="sr-only">Research</h1>
+<h1 class="move-style">You approach Fay and explain the library policies and local laws.</h1>
+
+Fay tells you she doesn’t care. The  [[<span class="info-style">advocacy group</span>|Farce - Research Laws - Pressure Groups (Info)]] that she is a part of told her that she was within her rights to record wherever and whatever she desires inside the library. 
+
+She tells you she plans to stay all day. She’s going to continue recording the staff who are henceforth referred to as the Rainbow Public Library oppressors. 
+
+Her followers ''MUST KNOW THE TRUTH''. 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Research and Explain (Your Move)]]</span>
+
+
+
+:: Farce - Research Laws - Pressure Groups (Info) {"position":"1800,1675","size":"100,100"}
+<h1 class="header-style">About Pressure Groups</h1>
+
+Pressure groups (also known as advocacy groups, lobby groups, or interest groups) are organizations that seek to influence public policy on specific issues.
+
+In 2024, the American Library Association's (ALA) Office for Intellectual Freedom reported <a href="https://www.ala.org/news/2024/03/american-library-association-reports-record-number-unique-book-titles" target="_blank" rel="noopener noreferrer">4,240 unique titles</a> challenged in the previous year.  According to <a href="https://www.ala.org/bbooks/book-ban-data" target="_blank" rel="noopener noreferrer">data gathered</a> by the ALA, 72% of demands to restrict books in school and public libraries were initiated by organized groups.
+
+Moms for Liberty is a conservative group launched in 2021. They advocate for removing books that they consider to be inappropriate from school libraries, including titles representing BIPOC and LGBTQ+ individuals. They now claim <a href="https://www.cbsnews.com/news/war-of-words-the-fight-over-banning-books/" target="_blank" rel="noopener noreferrer">275 chapters</a> across 45 states, and counting.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - About Pressure Groups (Info)(Continued)]]</span>
+
+
+:: Farce - Research and Explain (Your Move) {"position":"2175,1700","size":"100,100"}
+<img class="fit-picture"src="images/FarceCatComputerA.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="move-style">Your move.</h1>
+
+Do you decide start yelling at Fay, report Fay's behavior to your supervisor, or respectfully disengage?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Yell at Fay|Farce - Yell]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Report Fay|Farce - Report]] </span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Respectfully disengage |Farce -  Respectfully Disengage]] </span>
+
+
+:: Farce - Respectfully Disengage (Continued) {"position":"2725,1750","size":"100,100"}
+<img class="fit-picture" src="images/JustOneMoreThing.png" alt="Just one more thing meme with at librarian">
+
+<h1 class="action-style">Here are some phrases you can use to respectfully disengage:</h1>
+
+<span class="speech-style">YOU:</span> Thank you for sharing this information. I'll make sure to discuss it with library administration.
+
+<span class="speech-style">YOU:</span> Okay, just one more thing...I'm hearing you say that you want us to review our books for inappropriate material. I'll bring this up with the [[<span class="info-style"> collection development team</span>|Farce - Respectfully Disengage (Continued) - Collection Development Team (Info)]].
+
+<span class="speech-style">YOU:</span> I have another meeting to go to, but I appreciate you expressing your concerns. I'll do my best to address them. Have a nice afternoon!
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Respectfully Disengage (Ending)]]</span>
+
+
+:: Farce - Respectfully Disengage (Continued) - Collection Development Team (Info) {"position":"2850,1750","size":"100,100"}
+<h1 class="header-style">About Collection Development Teams</span>
+
+Library collection development is the process of systematically building the collection of a particular library to meet the information needs of the library users (a service population) in a timely and economical manner, using information resources locally held as well as resources from other organizations. 
+
+A library's collection development team collaborates with library staff to manage collection budgets and recommend new titles to acquire. They may review reporting regarding national and local trends in order to do so.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game |Farce - Respectfully Disengage (Continued)]]</span>
+
+
+:: Farce - Respectfully Disengage (Ending) {"position":"2850,2500","size":"100,100"}
+<img class="fit-picture" src="images/FayeReactingtoCalm.png" alt="Fay is disgruntled">
+
+Fay is disgruntled with your response. She continues livestreaming to her followers for a while, remarking on a several books and library displays. Finally, she decides to log off.
+
+<h1 class="action-style">Fay leaves the library.</h1>
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Mid End Card]]</span>
+
+
+:: Farce - Scene Start (Continued) {"position":"2025,1000","size":"100,100"}
+<img class="fit-picture" src="images/FayeatCounter.png" alt="Fay Knuse taking a selfie">
+
+You learn the patron is MeTube “Influencer” Fay Knuse, who frequently films and livestreams library workers doing their jobs and interacting with the public. 
+
+You’ve heard about this happening at other libraries but you’ve never experienced it personally.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Start Scene (Continued Further)]]</span>
+
+
+:: Farce - Show Appreciative Curiosity {"position":"3450,1750","size":"100,100"}
+<img class="fit-picture" src="images/Farce_ShowAppreciativeCuriosity.png
+" alt="">
+<h1 class="sr-only">Show Appreciative Curiosity</h1>
+It's wise to practice expressing appreciative curiosity. Civility rarely goes viral. 
+
+Expressing curiosity gently and calmly can de-escalate a conversation as it disarms anger and allows both parties to retain control. It honors First Amendment and professional values.
+
+However, this is not always as easy as it seems. It takes time, often out of a busy day. It is a skill that requires practice. 
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Show Appreciative Curiosity (Continued)]]</span>
+
+
+:: Farce - Show Appreciative Curiosity (Continued) {"position":"3450,1950","size":"100,100"}
+<img class="fit-picture" src="images/FarceCatSuggesting.png" alt="Calm cat librarian at counter">
+
+<h1 class="action-style">Here are some questions you can ask Fay to show appreciative curiosity:</h1>
+
+<span class="speech-style">You:</span> I see you are upset, and I want to be sure that understand why. Can you tell me more?
+
+<span class="speech-style">You:</span> I'm grateful that you are sharing your concerns. Is there anything that I can do to help?
+
+<span class="speech-style">You:</span> I'd like to discuss this matter with you further. Would you like to go someplace quieter, like a conference room, so I can hear all of your concerns?
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Practice more skills|Farce - Practice Skills (Your Move)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Farce - Engage (Ending)]]</span>
+
+
+:: Farce - Start Scene {"position":"1900,1000","size":"100,100"}
+<img style="max-width: 100%; height: auto;" src="images/RainbowLibrary.png" alt="Library exterior with a rainbow logo">
+In this scenario, you work at the Rainbow Public Library. You’re going about your regular shift when you notice a stranger filming patrons and causing a scene. 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Scene Start (Continued)]]</span>
+
+
+:: Farce - Start Scene (Continued Further) {"position":"2150,1000","size":"100,100"}
+<img class="fit-picture" src="images/FayeFilming.png" alt="Fay filming library patrons">
+
+<h1 class="action-style">Fay walks around the library, filming various displays, books, and patrons.</h1> 
+
+
+<span class="speech-style">Fay Knuse:</span> We're live at the Rainbow Public Library and I can't believe what is going on here! The name of the library sounds all friendly and nice, but why are there murder mystery books right near the children’s section? And look at the "children's books" that this person is holding — these books don’t look  [[<span class="info-style">appropriate for children</span>|Farce - Start Scene - Neo-Censorship (Info)]]! I'm disturbed by what I'm seeing!
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Start Scene (Your Move)]]</span>
+
+
+:: Farce - Start Scene (Your Move) {"position":"2275,1000","size":"100,100"}
+<img class="fit-picture"src="images/FarceCatComputerA.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="action-style">Your move.</h1> 
+
+Do you check [[<span class="info-style">library policies</span>|Farce - Start Scene - Library Policies (Info)]], confront Fay, or ignore Fay?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Check library policies |Farce - Check Policies]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Confront Fay | Farce - Confront]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Ignore Fay| Farce - Ignore]]</span>
+
+
+:: Farce - Start Scene - Library Policies (Info) {"position":"2275,850","size":"100,100"}
+<h1 class="header-style">About Library Policies</h1>
+
+Library policies are written documents that dictate how library staff are expected to respond in various situations they may encounter. Formal policies are critical for assisting in situations such as book challenges, as they provide official guidance on processes for resolution.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game|Farce - Start Scene (Your Move)]]</span>
+
+
+:: Farce - Start Scene - Neo-Censorship (Info) {"position":"2150,850","size":"100,100"}
+<h1 class="header-style">About Neo-Censorship</h1>
+
+A 2025 report by Library Futures entitled <a href="https://www.libraryfutures.net/publications/neo-censorship-in-u-s-libraries/" target="_blank" rel="noopener noreferrer">Neo-Censorship in U.S. Libraries: An Investigation Into Digital Content Suppression</a>, demonstrates that many challenges against so-called "inappropriate" or "pornographic" materials within libraries are "purposeful acts of disinformation presented with false narratives about the source, context, or character of the information." 
+
+The report also details how these claims can be harmful to minors, given that they are frequently "based on discriminatory ideologies that can negatively impact children’s learning, civil rights, and wellbeing."
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game|Farce - Start Scene (Continued Further)]]</span>
+
+
+:: Farce - Yell {"position":"2500,1625","size":"100,100"}
+<img class="fit-picture" src="images/Farce_Yell.png" alt="">
+<h1 class="sr-only">Yell</h1>
+<h1 class="action-style">You begin yelling at Fay to stop filming. Fay points her camera at you.</h1>
+
+<span class="speech-style">Fay:</span> JUST LOOK AT HOW OPPRESSIVE THIS LIBRARY IS! I AM BEING VERBALLY ATTACKED FOR SPEAKING MY MIND!
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Farce - Yell (Your Move)]]</span>
+
+
+:: Farce - Yell (Your Move) {"position":"2500,1800","size":"100,100"}
+<img class="fit-picture" src="images/DoYouWanttoGoViral.png" alt="Do you want to go viral? Because that's how you go viral (meme with cat librarian)">
+
+<h1 class="move-style">Your move.</h1>
+
+Do you continue yelling at Fay, decide to report Fay to your supervisor, or respectfully disengage from the conversation?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue yelling|Farce - Continue Yelling (Ending)]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Report Fay|Farce - Report]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Respectfully disengage|Farce -  Respectfully Disengage]]</span> 
+
+
+:: Game Start {"position":"1600,1000","size":"100,100"}
+<h1 class="header-style">Choose A Scenario</h1>
+
+Now that we've brushed up on intellectual freedom and the Library Bill of Rights, let's step into the shoes of a public library worker. 
+
+Which scenario would you like to play first?<br>
+[[<img style="max-width: 100%; height: auto;" src="images/Dilemma_StartBanner.png" alt="The Dilemma of The Disapproving Dino Doctor">|Dilemma - Start Scene]]<br><br></span>[[<img style="max-width: 100%; height: auto;" src="images/Farce_StartBanner.png" alt="The Farce of the First Amendment Audit Influencer">|Farce - Start Scene]]</span>
+
+
+:: Intellectual Freedom {"position":"800,475","size":"100,100"}
+<h1 class="header-style">Intellectual Freedom</h1>
+
+Let's begin by reflecting for a moment on intellectual freedom. 
+
+Intellectual freedom is the right of every individual to seek and receive information from all points of view without restriction. 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Current Threats]]</span>
+
+
+:: Just Kidding (No answer) {"position":"1100,700","size":"100,100"}
+<h1 class="header-style">Don't Worry</h1>
+
+Just kidding...there are only seven. 
+
+Did we get you?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Okay, phew. Let's review. |Library Bill of Rights 1]]</span>
+
+
+:: Just Kidding (Yes answer) {"position":"1100,550","size":"100,100"}
+<h1 class="header-style">Wow!</h1>
+
+We appreciate the enthusiasm but we were just kidding! 
+
+There are only seven.
+
+Let's take a look at them now.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;I'm ready! |Library Bill of Rights 1]]</span>
+
+
+:: LOCAL IMAGES {"position":"500,200","size":"100,100"}
+https://twinery.org/cookbook/images/harlowe/harlowe_images.html
+
+<url> = <url()>
+
+
+Cookbook home: https://twinery.org/cookbook/index.html
+
+
+:: Library Bill of Rights {"position":"950,625","size":"100,100"}
+<h1 class="header-style">The Library Bill of Rights</h1>
+
+The Library Bill of Rights is a document that enshrines the rights of library users and the responsibility of libraries to protect intellectual freedom. 
+
+Let's take this opportunity to review all 125 articles listed in the Library Bill of Rights one by one.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Sounds great! |Just Kidding (Yes answer)]]
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;What? No way. |Just Kidding (No answer)]]
+
+
+:: Library Bill of Rights 1 {"position":"1250,625","size":"100,100"}
+<img class="fit-picture" src="images/bill_1.jpg"  alt="Librarian exchanging a book with a patron">
+
+<h1 class="header-style">Article One</h1>
+
+Books and other library resources should be provided for the interest, information, and enlightenment of all people of the community the library serves. Materials should not be excluded because of the origin, background, or views of those contributing to their creation.
+
+
+
+[[<img src="images/FactPlz_Lightbulb.png"  alt=""><span style="position: relative; top: -5px;">&nbsp;Read bonus fact! |Bill Fact 1]]</span> 
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -2px; left: 1px;">&nbsp;Continue |Library Bill of Rights 2]]</span>
+
+
+:: Library Bill of Rights 2 {"position":"1375,625","size":"100,100"}
+<img class="fit-picture" src="images/bill_2.jpg"  alt="A librarian shows off their muscles">
+
+<h1 class="header-style">Article Two</h1>
+
+Libraries should provide materials and information presenting all points of view on current and historical issues. Materials should not be proscribed or removed because of partisan or doctrinal disapproval.
+
+
+
+[[<img src="images/FactPlz_Lightbulb.png"  alt=""><span style="position: relative; top: -5px;">&nbsp;Read bonus fact! |Bill Fact 2]]</span> 
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -2px; left: 1px;">&nbsp;Continue |Library Bill of Rights 3]] </span>
+
+
+:: Library Bill of Rights 3 {"position":"1500,625","size":"100,100"}
+<img class="fit-picture" src="images/bill_3.jpg"  alt="A librarian and two patrons with censored bars over their mouths">
+
+<h1 class="header-style">Article Three</h1>
+
+Libraries should challenge censorship in the fulfillment of their responsibility to provide information and enlightenment.
+
+
+
+[[<img src="images/FactPlz_Lightbulb.png"  alt=""><span style="position: relative; top: -5px;">&nbsp;Read bonus fact! |Bill Fact 3]]</span> 
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -2px; left: 1px;">&nbsp;Continue |Library Bill of Rights 4]] </span>
+
+
+:: Library Bill of Rights 4 {"position":"1625,625","size":"100,100"}
+<img class="fit-picture" src="images/bill_4.jpg"  alt="A library patron holding a loudspeaker">
+
+<h1 class="header-style">Article Four</h1>
+
+Libraries should cooperate with all persons and groups concerned with resisting abridgment of free expression and free access to ideas.
+
+
+
+[[<img src="images/FactPlz_Lightbulb.png"  alt=""><span style="position: relative; top: -5px;">&nbsp;Read bonus fact! |Bill Fact 4]]</span> 
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -2px; left: 1px;">&nbsp;Continue |Library Bill of Rights 5]] </span>
+
+
+:: Library Bill of Rights 5 {"position":"1750,625","size":"100,100"}
+<img class="fit-picture" src="images/bill_5.jpg"  alt="A young library patron with a book in her backpack">
+
+<h1 class="header-style">Article Five</h1>
+
+A person’s right to use a library should not be denied or abridged because of origin, age, background, or views.
+
+
+
+[[<img src="images/FactPlz_Lightbulb.png"  alt=""><span style="position: relative; top: -5px;">&nbsp;Read bonus fact! |Bill Fact 5]]</span> 
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -2px; left: 1px;">&nbsp;Continue |Library Bill of Rights 6]] </span>
+
+
+:: Library Bill of Rights 6 {"position":"1875,625","size":"100,100"}
+<img class="fit-picture" src="images/bill_6.jpg"  alt="A library with an open sign">
+
+<h1 class="header-style">Article Six</h1>
+
+Libraries which make exhibit spaces and meeting rooms available to the public they serve should make such facilities available on an equitable basis, regardless of the beliefs or affiliations of individuals or groups requesting their use.
+
+
+
+[[<img src="images/FactPlz_Lightbulb.png"  alt=""><span style="position: relative; top: -5px;">&nbsp;Read bonus fact! |Bill Fact 6]]</span> 
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -2px; left: 1px;">&nbsp;Continue |Library Bill of Rights 7]]</span>
+
+
+:: Library Bill of Rights 7 {"position":"2000,625","size":"100,100"}
+<img class="fit-picture" src="images/bill_7.jpg"  alt="A librarian making a hush sign and two library patrons reading">
+
+<h1 class="header-style">Article Seven</h1>
+
+All people, regardless of origin, age, background, or views, possess a right to privacy and confidentiality in their library use. Libraries should advocate for, educate about, and protect people’s privacy, safeguarding all library use data, including personally identifiable information.
+
+
+
+[[<img src="images/FactPlz_Lightbulb.png"  alt=""><span style="position: relative; top: -5px;">&nbsp;Read bonus fact! |Bill Fact 7]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -2px; left: 1px;">&nbsp;Continue |Game Start]]
+</span>
+
+
+:: Quandary - Check Policies (Continued) {"position":"5425,1300","size":"100,100"}
+
+
+
+:: Quandary - Check policies {"position":"5025,1300","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_CheckPolicies.png" alt="">
+<h1 class="sr-only">Check policies</h1>
+<h1 class="action-style">You check the library's policies and find this passage:</h1>
+
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Quandary - Check Policies (Continued)]]</span>
+
+
+:: Quandary - Make a statement {"position":"4825,1300","size":"100,100"}
+<h1 class="action-style">You decide to make a statement.</h1>
+
+<span class="speech-style">You:</span> Yes, I am happy to make a statement.
+
+<span class="speech-style">Paige:</span> Great. I noticed that there are several books suspiciously close to the children’s section that contain themes that are wildly inappropriate for minors. Do you really think children should be able to have unfettered access to these materials?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Quandary - Make a statement (Your Move)]]</span>
+
+
+:: Quandary - Make a statement (Your Move) {"position":"4825,1500","size":"100,100"}
+<img class="fit-picture"src="images/Cat_ComputerB.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="action-style">Your move.</h1> 
+
+Do you respond to the question calmly, begin yelling at Paige, or panic and run outside?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Respond calmly |Quandary - Respond calmly]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Begin yelling |Quandary - Yell]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Panic and run |Qundary - Panic]]</span>
+
+
+:: Quandary - Respond calmly {"position":"4825,1700","size":"100,100"}
+
+
+
+:: Quandary - Scene Start (Continued) {"position":"4425,1000","size":"100,100"}
+<img style="width: 300px;; height: auto;" src="images/hound.png" alt="">
+
+You recognize Paige Turner, a local journalist known for her eyecatching (or, as some would say, clickbaiting) stories. She sees you from across the room and approaches the library desk.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Quandary - Start Scene (Continued Further)]]</span>
+
+
+:: Quandary - Start Scene {"position":"4225,1000","size":"100,100"}
+<img style="max-width: 100%; height: auto;" src="images/RainbowLibrary.png" alt="Library exterior with a rainbow logo">
+In this scenario, you work at the Sunshine Public Library. You’re filing some paperwork when you notice someone talking to patrons and writing in a notepad.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Quandary - Scene Start (Continued)]]</span>
+
+
+:: Quandary - Start Scene (Continued Further) {"position":"4625,1000","size":"100,100"}
+<img style="width: 300px;; height: auto;" src="images/hound.png" alt="">
+
+<span class="speech-style">Paige:</span> Hello, I'm Paige Turner. I'm a journalist for the Sunshine Post and I have recently received a tip regarding your library. Fay Knuse, who was happy to be named, let me know that this library is overflowing with materials that are “inappropriate for minors.” I am here to investigate for an article about how libraries are harming our children. Can I speak with your library director?
+
+<span class="speech-style">You:</span> I’m sorry, our library director is not here right now. You can come in a few hours to speak with her, if you’d like.</span> 
+
+ <span class="speech-style">Paige:</span> Well, I’m here now. Would you like to make a statement? 
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Quandary - Start Scene (Your Move)]]</span>
+
+
+:: Quandary - Start Scene (Your Move) {"position":"4825,1000","size":"100,100"}
+<img class="fit-picture"src="images/Cat_ComputerB.png" alt="A cat librarian sits at a computer desk">
+
+<h1 class="action-style">Your move.</h1> 
+
+Do you decide to make a statement, check [[<span class="info-style">library policies</span>|Quandary - Start Scene - Library Policies (Info)]], or ignore Paige?
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Make a statement |Quandary - Make a statement]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Check library policies |Quandary - Check policies]]</span>
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;&nbsp;Ignore Paige|Qundary - Ignore]]</span>
+
+
+:: Quandary - Start Scene - Library Policies (Info) {"position":"5025,1000","size":"100,100"}
+<h1 class="header-style">About Library Policies</h1>
+
+Library policies are written documents that dictate how library staff are expected to respond in various situations they may encounter. Formal policies are critical for assisting in situations such as book challenges, as they provide official guidance on processes for resolution.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Return to game|Quandary - Start Scene (Your Move)]]</span>
+
+
+:: Quandary - Yell {"position":"5250,1700","size":"100,100"}
+
+
+
+:: Quandrary - Ignore (Continued) {"position":"4125,1300","size":"100,100"}
+
+
+
+:: Qundary - Ignore {"position":"4625,1300","size":"100,100"}
+<img class="fit-picture" src="images/ActionCard_Ignore.png" alt="">
+<h1 class="sr-only">Ignore</h1>
+<h1 class="action-style">You ignore Paige. Paige grows increasingly upset.</h1>
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue|Quandrary - Ignore (Continued)]]</span>
+
+
+
+:: Qundary - Panic {"position":"4350,1700","size":"100,100"}
+
+
+
+:: Welcome {"position":"800,125","size":"100,100"}
+<img style="max-width: 100%; height: auto;" src="images/Welcome.png" alt="Imagine IF: the game welcome banner with game characters">
+
+<br><h1 class="header-style">Welcome!</h1>
+
+This choose-your-own-adventure experience supports public librarians through scenario-based gameplay. You will play the role of a librarian as you navigate intellectual freedom issues and interact with patrons and staff.
+
+
+
+[[<img src="images/continuearrow.png"  alt=""><span style="position: relative; top: -1px;">&nbsp;Continue |Choose Chaos]]</span>
+
+
+:: StoryStylesheet [stylesheet]
+
+/* Game Font */ 
+
+@import url('https://fonts.googleapis.com/css2?family=Carlito&display=swap');
+
+tw-story {
+  font-family: 'Carlito', sans-serif;
+}
+
+
+/* Game Font Size */ 
+
+html {
+    font-size: 16.5px; 
+}
+
+
+/* Image Size Adjustments */
+
+.fit-picture {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+@media screen and (min-width: 768px) {
+  .fit-picture {
+    max-width: 75% !important;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .fit-picture {
+    max-width: 60% !important;
+  }
+}
+
+
+
+/* Header Style */ 
+
+h1.header-style {
+  all: unset;
+  display: inline;
+  color: #000000; 
+  background-color: #8AFF6D; 
+  font-weight: 600; 
+  font-size: 16.5; !important;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 6px; 
+    padding-right: 6px; 
+ }
+
+
+
+/* Screen Reader Headers*/
+
+h1.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+
+/* Speech Style */ 
+
+.speech-style {
+    color: #8AFF6D;
+    font-weight: 600;
+    text-transform: uppercase; 
+
+}
+
+/* Information style */ 
+
+.info-style {
+    color: #56BDF9;
+    font-weight: 400;
+}
+
+/* Information style hover */ 
+
+.info-style:hover {
+    color: #FF4D8A; 
+}
+
+/* Move Style */ 
+
+
+h1.move-style {
+  all: unset;
+  display: inline;
+ color: #FF4D8A;
+  font-weight: 800; 
+  font-size: 16.5; !important;
+ }
+
+
+/* Game Action Style */ 
+
+
+h1.action-style {
+  all: unset;
+  display: inline;
+  color: #FF4D8A;
+  font-weight: 800; 
+  font-size: 16.5; !important;
+ }
+
+
+/* Game background color */
+
+tw-story {
+    background-color: #000000;
+}
+
+/* Link color */
+tw-story tw-link {
+    color: #8AFF6D !important;
+}
+
+/* Visited link color */
+tw-story tw-link:visited {
+    color: #8AFF6D !important;
+}
+
+
+/* Link hover color */
+tw-story tw-link:hover {
+    color: #FF4D8A !important;
+
+}
+
+
+/* Active link color */
+tw-story tw-link:active {
+    color: #FF4D8A !important;
+}
+
+
+/* Embedded link style */
+
+a {
+    color: #7AC6FF;
+    text-decoration: none;
+}
+
+/* Embedded link style hover */
+
+a:hover {
+ color: #FF4D8A;
+      text-decoration: none;
+}
+
+/* Side arrow color */ 
+
+tw-icon {
+     color: #FF4D8A !important;
+
+    opacity: 1 !important;
+
+}
+
+/* Side arrow hover color */ 
+
+tw-icon:hover {
+  color: #8AFF6D !important;     
+     opacity: 1 !important;
+
+}
